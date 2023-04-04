@@ -121,6 +121,7 @@ class HotelListViewModel {
     hotelsCellModel = tmpHotels
   }
   
+  // This part can and should be improved
   func populateModelWithNewData() {
     // Covering the case when number of fetched hotels from API is less then our set number which is 20
     if isSearchActive || hotelsCellModel.count >= originalHotelsCellModel.count {
@@ -142,7 +143,7 @@ class HotelListViewModel {
         hotelsCellModel.append(originalHotelsCellModel[i])
         newHotelsForAppending.append(originalHotelsCellModel[i])
       }
-      if totalNumberOfElementsThatWillBeLoaded == 20 {
+      if totalNumberOfElementsThatWillBeLoaded <= 20 {
         delegate?.dataFetched()
       }else {
         delegate?.insertNewElements(newHotelsForAppending)

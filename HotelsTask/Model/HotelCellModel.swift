@@ -7,7 +7,7 @@
 
 import Foundation
 
-struct HotelCellModel {
+struct HotelCellModel: Equatable {
   
   let name: String
   let starRating: Int
