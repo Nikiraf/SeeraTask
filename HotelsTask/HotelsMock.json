@@ -1,0 +1,974 @@
+{
+    "sortBy": "priority",
+    "distanceShow": true,
+    "countryCode": "AE",
+    "hotels": {
+        "1538068": {
+            "atgHotelId": 1538068,
+            "price": 259,
+            "hotelChainId": 188,
+            "propertyTypeId": 17,
+            "name": {
+                "en": "TRYP by Wyndham Dubai",
+                "ar": "تريب باي ويندام دبي"
+            },
+            "starRating": 4,
+            "thumbnailUrl": "http://hotelcms-contents-live.tajawal.com/97fa97b8-a475-46a2-9b1d-a2995b55ce0f.jpg",
+            "area": {
+                "id": 63,
+                "nameEn": "Barsha Heights",
+                "nameAr": "برشا هايتس"
+            },
+            "rank": 1965,
+            "longitude": 55.17477966749379,
+            "latitude": 25.097271599664083,
+            "distance": 15.0,
+            "distanceInMeters": 15381.7,
+            "address": {
+                "en": "Al Seef Street 1 Barsha Heights, Tecom, Dubai, United Arab Emirates",
+                "ar": "شارع السيف 1 برشا هايتس, تيكوم, دبي, الإمارات العربية المتحدة"
+            },
+            "distanceScore": 0.658184,
+            "priorityScore": 0.9825,
+            "similarityScore": 0.0,
+            "facilityIds": [
+                23,
+                38,
+                42,
+                46,
+                54,
+                55,
+                59,
+                60,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                74,
+                75,
+                77,
+                82,
+                85,
+                87,
+                89,
+                91,
+                93,
+                94,
+                96,
+                97,
+                100,
+                103,
+                108,
+                109,
+                112,
+                114,
+                117,
+                8000,
+                8002,
+                8004,
+                8005,
+                8006,
+                8007,
+                8008,
+                8009,
+                8010,
+                8011,
+                8012,
+                8013,
+                8014,
+                8015,
+                8016,
+                8017,
+                8018,
+                8019,
+                8020,
+                8021,
+                8022,
+                8023,
+                8024,
+                8025
+            ],
+            "review": {
+                "hotelId": 1538068,
+                "count": 9783,
+                "name": "TRYP by Wyndham Dubai",
+                "sourcesCount": null,
+                "score": 8.6,
+                "scoreDescription": {
+                    "en": "Excellent",
+                    "ar": "ممتاز"
+                },
+                "scoreColor": "#129911"
+            },
+            "topPicks": null
+        },
+        "1416982": {
+            "atgHotelId": 1416982,
+            "price": 273,
+            "hotelChainId": 188,
+            "propertyTypeId": 17,
+            "name": {
+                "en": "Wyndham Dubai Marina",
+                "ar": "ويندهام دبي مارينا"
+            },
+            "starRating": 4,
+            "thumbnailUrl": "http://hotelcms-contents-live.tajawal.com/d8c40b0e-443e-416e-a84f-a5c67748f527.jpg",
+            "area": null,
+            "rank": 1953,
+            "longitude": 55.12805497668648,
+            "latitude": 25.06944761091511,
+            "distance": 21.0,
+            "distanceInMeters": 20817.0,
+            "address": {
+                "en": "Al Seba Street,, Dubai Marina, Dubai, United Arab Emirates",
+                "ar": "شارع السبا, مرسى دبي‎, دبي, الإمارات العربية المتحدة"
+            },
+            "distanceScore": 0.5374,
+            "priorityScore": 0.9765,
+            "similarityScore": 0.0,
+            "facilityIds": [
+                3,
+                4,
+                38,
+                39,
+                40,
+                43,
+                46,
+                49,
+                54,
+                55,
+                59,
+                60,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                74,
+                75,
+                77,
+                80,
+                89,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                99,
+                100,
+                101,
+                103,
+                108,
+                109,
+                110,
+                112,
+                114,
+                115,
+                117,
+                122,
+                8000,
+                8002,
+                8003,
+                8004,
+                8005,
+                8006,
+                8007,
+                8008,
+                8009,
+                8010,
+                8011,
+                8012,
+                8013,
+                8014,
+                8015,
+                8016,
+                8017,
+                8018,
+                8019,
+                8020,
+                8021,
+                8023,
+                8024,
+                8025
+            ],
+            "review": {
+                "hotelId": 1416982,
+                "count": 7852,
+                "name": "Wyndham Dubai Marina",
+                "sourcesCount": null,
+                "score": 8.3,
+                "scoreDescription": {
+                    "en": "Very good",
+                    "ar": "جيد جدا"
+                },
+                "scoreColor": "#71BC4C"
+            },
+            "topPicks": {
+                "hotelId": 1416982,
+                "distance": {
+                    "en": "",
+                    "ar": ""
+                },
+                "subcategories": {
+                    "en": "",
+                    "ar": ""
+                },
+                "description": {
+                    "en": "An ideal hotel, offering easy access to sightseeing spots, main attractions, and top things to do in the city!",
+                    "ar": "فندق مميّز يتيح لنزلائه سهولة الوصول إلى أروع المواقع السياحية والأماكن الرئيسية، بالإضافة إلى قربه من أفضل الأنشطة في المدينة!"
+                },
+                "categories": {
+                    "en": "Explore top attractions",
+                    "ar": "لإكتشاف أشهر المعالم",
+                    "iconLink": "https://tjwlhotelcms.s3.amazonaws.com/almosafer/live/almosafer_favourites/explore_attractions.png"
+                }
+            }
+        },
+        "1424406": {
+            "atgHotelId": 1424406,
+            "price": null,
+            "hotelChainId": 181,
+            "propertyTypeId": 17,
+            "name": {
+                "en": "Hyatt Regency Dubai Creek Heights",
+                "ar": " حياة ريجنسي دبي كريك هايتس"
+            },
+            "starRating": 5,
+            "thumbnailUrl": "http://hotelcms-contents-live.tajawal.com/42131fa1-fe67-4695-864f-bbbf2d93e0e0.jpg",
+            "area": {
+                "id": 44,
+                "nameEn": "Bur Dubai",
+                "nameAr": "بر دبي"
+            },
+            "rank": 1933,
+            "longitude": 55.324015506492174,
+            "latitude": 25.234354777667473,
+            "distance": 6.3,
+            "distanceInMeters": 6281.7,
+            "address": {
+                "en": "Dubai Healthcare City, 20th Street, Bur Dubai, Dubai, United Arab Emirates",
+                "ar": "مدينة دبي الطبية, شارع 20, بر دبي, دبي, الإمارات العربية المتحدة"
+            },
+            "distanceScore": 0.860407,
+            "priorityScore": 0.9665,
+            "similarityScore": 0.0,
+            "facilityIds": [
+                37,
+                38,
+                39,
+                40,
+                42,
+                43,
+                44,
+                45,
+                48,
+                54,
+                55,
+                57,
+                59,
+                60,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                74,
+                77,
+                83,
+                85,
+                89,
+                91,
+                96,
+                97,
+                100,
+                101,
+                107,
+                108,
+                109,
+                112,
+                114,
+                117,
+                122,
+                8000,
+                8002,
+                8005,
+                8006,
+                8007,
+                8008,
+                8009,
+                8010,
+                8011,
+                8012,
+                8013,
+                8015,
+                8016,
+                8017,
+                8018,
+                8019,
+                8020,
+                8021,
+                8023,
+                8024,
+                8025
+            ],
+            "review": {
+                "hotelId": 1424406,
+                "count": 8049,
+                "name": "Hyatt Regency Dubai Creek Heights",
+                "sourcesCount": null,
+                "score": 8.3,
+                "scoreDescription": {
+                    "en": "Very good",
+                    "ar": "جيد جدا"
+                },
+                "scoreColor": "#71BC4C"
+            },
+            "topPicks": {
+                "hotelId": 1424406,
+                "distance": {
+                    "en": "",
+                    "ar": ""
+                },
+                "subcategories": {
+                    "en": "",
+                    "ar": ""
+                },
+                "description": {
+                    "en": "With excellent service, spacious rooms, and kid-friendly amenities, this hotel makes for a fun family getaway in the city!",
+                    "ar": "يوفّر هذا الفندق أفضل الخدمات لنزلائه، بالإضافة إلى غرفه الواسعة والأنشطة المسلية للأطفال، ما يجعله ملاذاً عائلياً ممتعاً وسط المدينة!"
+                },
+                "categories": {
+                    "en": "Family-friendly",
+                    "ar": "إقامة مريحة للعائلة",
+                    "iconLink": "https://tjwlhotelcms.s3.amazonaws.com/almosafer/live/almosafer_favourites/family_friendly.png"
+                }
+            }
+        },
+        "1421329": {
+            "atgHotelId": 1421329,
+            "price": 3,
+            "hotelChainId": 9,
+            "propertyTypeId": 17,
+            "name": {
+                "en": "Ibis One Central - World Trade Centre Dubai ",
+                "ar": "إيبيس وان سنترال - مركز دبي التجاري العالمي"
+            },
+            "starRating": 0,
+            "thumbnailUrl": "http://hotelcms-contents-live.tajawal.com/14af67f9-76a3-41b1-a9e2-cf45fd5b3216.jpg",
+            "area": {
+                "id": 33,
+                "nameEn": "Trade Center",
+                "nameAr": "المركز التجاري"
+            },
+            "rank": 1982,
+            "longitude": 55.28612147048284,
+            "latitude": 25.2215923467245,
+            "distance": 2.4,
+            "distanceInMeters": 2418.8999999999996,
+            "address": {
+                "en": "Dubai World Trade Center, Trade Center Area, 9914 Dubai, United Arab Emirates",
+                "ar": "مركز دبي التجاري العالمي, منطقة المركز التجاري, 9914 دبي, الإمارات العربية المتحدة "
+            },
+            "distanceScore": 0.946247,
+            "priorityScore": 0.991,
+            "similarityScore": 0.0,
+            "facilityIds": [
+                38,
+                54,
+                55,
+                59,
+                60,
+                64,
+                65,
+                67,
+                68,
+                69,
+                74,
+                77,
+                85,
+                87,
+                89,
+                91,
+                93,
+                94,
+                96,
+                97,
+                99,
+                100,
+                101,
+                122,
+                124,
+                8000,
+                8002,
+                8007,
+                8008,
+                8009,
+                8010,
+                8011,
+                8023
+            ],
+            "review": {
+                "hotelId": 1421329,
+                "count": 10911,
+                "name": "ibis One Central",
+                "sourcesCount": null,
+                "score": 8.3,
+                "scoreDescription": {
+                    "en": "Very good",
+                    "ar": "جيد جدا"
+                },
+                "scoreColor": "#71BC4C"
+            },
+            "topPicks": {
+                "hotelId": 1421329,
+                "distance": {
+                    "en": "",
+                    "ar": ""
+                },
+                "subcategories": {
+                    "en": "",
+                    "ar": ""
+                },
+                "description": {
+                    "en": "Comfortable rooms and compact features make this hotel an ideal budget accommodation for travellers!",
+                    "ar": "بغرفه الفخمة، وسائل الراحة المريحة والخدمات الممتازة، يعد هذا الفندق خياراً مناسباً لتستمتع بإجازة مميزة ضمن ميزانيتك."
+                },
+                "categories": {
+                    "en": "Value for money",
+                    "ar": "إقامة أوفر",
+                    "iconLink": "https://tjwlhotelcms.s3.amazonaws.com/almosafer/live/almosafer_favourites/value_money.png"
+                }
+            }
+        },
+        "1637916": {
+            "atgHotelId": 1637916,
+            "price": 271,
+            "hotelChainId": 200,
+            "propertyTypeId": 17,
+            "name": {
+                "en": "Gulf Court Hotel Business Bay",
+                "ar": "فندق جَلف كورت بيزنس باي"
+            },
+            "starRating": 4,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/tjwlhotelcms/hotel_cms_data_live/hotel_images/10286320/esd_1.jpg",
+            "area": null,
+            "rank": 1901,
+            "longitude": 55.274263018639104,
+            "latitude": 25.182526192577214,
+            "distance": 2.5,
+            "distanceInMeters": 2507.4,
+            "address": {
+                "en": "Al Abraj Street, Dubai, United Arab Emirates",
+                "ar": "شارع الأبراج ، دبي ، الإمارات العربية المتحدة"
+            },
+            "distanceScore": 0.94428,
+            "priorityScore": 0.9505,
+            "similarityScore": 0.0,
+            "facilityIds": [
+                21,
+                38,
+                40,
+                42,
+                54,
+                55,
+                57,
+                59,
+                63,
+                64,
+                65,
+                67,
+                68,
+                69,
+                70,
+                71,
+                74,
+                77,
+                80,
+                85,
+                86,
+                87,
+                89,
+                91,
+                93,
+                94,
+                97,
+                99,
+                100,
+                101,
+                107,
+                108,
+                112,
+                122,
+                8000,
+                8002,
+                8007,
+                8008,
+                8009,
+                8010,
+                8011,
+                8023
+            ],
+            "review": {
+                "hotelId": 1637916,
+                "count": 2113,
+                "name": "Gulf Court Hotel Business Bay",
+                "sourcesCount": null,
+                "score": 8.6,
+                "scoreDescription": {
+                    "en": "Excellent",
+                    "ar": "ممتاز"
+                },
+                "scoreColor": "#129911"
+            },
+            "topPicks": null
+        },
+        "1014793": {
+            "atgHotelId": 1014793,
+            "price": 189,
+            "hotelChainId": 135,
+            "propertyTypeId": 17,
+            "name": {
+                "en": "Grand Excelsior Hotel Al Barsha",
+                "ar": "فندق جراند أكسلسيور البرشاء"
+            },
+            "starRating": 4,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/tjwlhotelcms/hotel_cms_data_live/hotel_images/4021252/1_41.jpg",
+            "area": {
+                "id": 32,
+                "nameEn": "Al Barsha 1",
+                "nameAr": "البرشاء 1"
+            },
+            "rank": 1985,
+            "longitude": 55.203285256160264,
+            "latitude": 25.11175905505774,
+            "distance": 12.0,
+            "distanceInMeters": 12384.6,
+            "address": {
+                "en": "Al Barsha 1, Behind Mall of the Emirates, Al Barsha, Dubai, United Arab Emirates",
+                "ar": "البرشاء 1, خلف مول الإمارات, البرشاء‎, دبي, الإمارات العربية المتحدة"
+            },
+            "distanceScore": 0.724787,
+            "priorityScore": 0.9925,
+            "similarityScore": 0.0,
+            "facilityIds": [
+                3,
+                4,
+                17,
+                23,
+                37,
+                38,
+                39,
+                40,
+                42,
+                43,
+                46,
+                48,
+                50,
+                54,
+                55,
+                59,
+                60,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                74,
+                75,
+                77,
+                85,
+                87,
+                89,
+                91,
+                93,
+                94,
+                96,
+                97,
+                100,
+                101,
+                108,
+                109,
+                112,
+                114,
+                117,
+                122,
+                124,
+                8000,
+                8002,
+                8004,
+                8005,
+                8006,
+                8007,
+                8008,
+                8009,
+                8010,
+                8011,
+                8012,
+                8013,
+                8014,
+                8015,
+                8016,
+                8017,
+                8021,
+                8022,
+                8023,
+                8024,
+                8025
+            ],
+            "review": {
+                "hotelId": 1014793,
+                "count": 3349,
+                "name": "Grand Excelsior Hotel Al Barsha",
+                "sourcesCount": null,
+                "score": 7.7,
+                "scoreDescription": {
+                    "en": "Very good",
+                    "ar": "جيد جدا"
+                },
+                "scoreColor": "#71BC4C"
+            },
+            "topPicks": {
+                "hotelId": 1014793,
+                "distance": {
+                    "en": "",
+                    "ar": ""
+                },
+                "subcategories": {
+                    "en": "",
+                    "ar": ""
+                },
+                "description": {
+                    "en": "An ideal hotel, offering easy access to sightseeing spots, main attractions, and top things to do in the city!",
+                    "ar": "فندق مميّز يتيح لنزلائه سهولة الوصول إلى أروع المواقع السياحية والأماكن الرئيسية، بالإضافة إلى قربه من أفضل الأنشطة في المدينة!"
+                },
+                "categories": {
+                    "en": "Explore top attractions",
+                    "ar": "لإكتشاف أشهر المعالم",
+                    "iconLink": "https://tjwlhotelcms.s3.amazonaws.com/almosafer/live/almosafer_favourites/explore_attractions.png"
+                }
+            }
+        },
+        "1425692": {
+            "atgHotelId": 1425692,
+            "price": 180,
+            "hotelChainId": 19,
+            "propertyTypeId": 17,
+            "name": {
+                "en": "Signature 1 Hotel Tecom ",
+                "ar": "سيجنيتشر 1 هوتل تيكوم"
+            },
+            "starRating": 4,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/tjwlhotelcms/hotel_cms_data_live/hotel_images/6583877/1_1.jpg",
+            "area": {
+                "id": 63,
+                "nameEn": "Barsha Heights",
+                "nameAr": "برشا هايتس"
+            },
+            "rank": 1987,
+            "longitude": 55.173627906745935,
+            "latitude": 25.09744887464651,
+            "distance": 15.0,
+            "distanceInMeters": 15439.7,
+            "address": {
+                "en": "Al Thanayah 1 Tecom, Tecom, Dubai, United Arab Emirates",
+                "ar": "الثنية 1 تيكوم  ، تيكوم ، دبي ، الإمارات العربية المتحدة"
+            },
+            "distanceScore": 0.656896,
+            "priorityScore": 0.9935,
+            "similarityScore": 0.0,
+            "facilityIds": [
+                4,
+                23,
+                38,
+                39,
+                42,
+                46,
+                55,
+                59,
+                61,
+                63,
+                64,
+                65,
+                67,
+                68,
+                69,
+                74,
+                77,
+                83,
+                87,
+                89,
+                91,
+                93,
+                97,
+                100,
+                108,
+                109,
+                112,
+                117,
+                8000,
+                8002,
+                8004,
+                8005,
+                8006,
+                8007,
+                8008,
+                8009,
+                8010,
+                8011,
+                8012,
+                8013,
+                8014,
+                8015,
+                8017,
+                8020,
+                8021,
+                8023,
+                8024,
+                8025
+            ],
+            "review": {
+                "hotelId": 1425692,
+                "count": 1791,
+                "name": "Somewhere Hotel Apartment Deira",
+                "sourcesCount": null,
+                "score": 8.3,
+                "scoreDescription": {
+                    "en": "Very good",
+                    "ar": "جيد جدا"
+                },
+                "scoreColor": "#71BC4C"
+            },
+            "topPicks": {
+                "hotelId": 1425692,
+                "distance": {
+                    "en": "",
+                    "ar": ""
+                },
+                "subcategories": {
+                    "en": "",
+                    "ar": ""
+                },
+                "description": {
+                    "en": "An ideal hotel, offering easy access to sightseeing spots, main attractions, and top things to do in the city!",
+                    "ar": "فندق مميّز يتيح لنزلائه سهولة الوصول إلى أروع المواقع السياحية والأماكن الرئيسية، بالإضافة إلى قربه من أفضل الأنشطة في المدينة!"
+                },
+                "categories": {
+                    "en": "Explore top attractions",
+                    "ar": "لإكتشاف أشهر المعالم",
+                    "iconLink": "https://tjwlhotelcms.s3.amazonaws.com/almosafer/live/almosafer_favourites/explore_attractions.png"
+                }
+            }
+        },
+        "1467164": {
+            "atgHotelId": 1467164,
+            "price": 180,
+            "hotelChainId": 19,
+            "propertyTypeId": 17,
+            "name": {
+                "en": "Al Khoory Atrium",
+                "ar": "الخوري أتريوم"
+            },
+            "starRating": 4,
+            "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/tjwlhotelcms/hotel_cms_data_live/hotel_images/7084954/0_1.jpg",
+            "area": {
+                "id": 32,
+                "nameEn": "Al Barsha 1",
+                "nameAr": "البرشاء 1"
+            },
+            "rank": 1976,
+            "longitude": 55.19607931779094,
+            "latitude": 25.11122249232288,
+            "distance": 13.0,
+            "distanceInMeters": 12845.7,
+            "address": {
+                "en": "Sheikh Zayed Road Al Barsha 1, Al Barsha, Dubai, United Arab Emirates",
+                "ar": "شارع الشيخ زايد البرشاء 1, البرشاء‎, دبي, الإمارات العربية المتحدة"
+            },
+            "distanceScore": 0.71454,
+            "priorityScore": 0.988,
+            "similarityScore": 0.0,
+            "facilityIds": [
+                4,
+                38,
+                39,
+                40,
+                42,
+                43,
+                44,
+                46,
+                59,
+                60,
+                63,
+                64,
+                65,
+                67,
+                68,
+                69,
+                70,
+                71,
+                74,
+                77,
+                85,
+                87,
+                88,
+                89,
+                91,
+                93,
+                94,
+                96,
+                97,
+                101,
+                106,
+                107,
+                108,
+                112,
+                117,
+                8000,
+                8002,
+                8005,
+                8006,
+                8007,
+                8008,
+                8009,
+                8010,
+                8011,
+                8015,
+                8017,
+                8018,
+                8019,
+                8020,
+                8021,
+                8023,
+                8024,
+                8025
+            ],
+            "review": {
+                "hotelId": 1467164,
+                "count": 4181,
+                "name": "Al Khoory Atrium Hotel",
+                "sourcesCount": null,
+                "score": 8.4,
+                "scoreDescription": {
+                    "en": "Very good",
+                    "ar": "جيد جدا"
+                },
+                "scoreColor": "#71BC4C"
+            },
+            "topPicks": {
+                "hotelId": 1467164,
+                "distance": {
+                    "en": "",
+                    "ar": ""
+                },
+                "subcategories": {
+                    "en": "",
+                    "ar": ""
+                },
+                "description": {
+                    "en": "Comfortable rooms and compact features make this hotel an ideal budget accommodation for travellers!",
+                    "ar": "بغرفه الفخمة، وسائل الراحة المريحة والخدمات الممتازة، يعد هذا الفندق خياراً مناسباً لتستمتع بإجازة مميزة ضمن ميزانيتك."
+                },
+                "categories": {
+                    "en": "Value for money",
+                    "ar": "إقامة أوفر",
+                    "iconLink": "https://tjwlhotelcms.s3.amazonaws.com/almosafer/live/almosafer_favourites/value_money.png"
+                }
+            }
+        },
+        "1014789": {
+            "atgHotelId": 1014789,
+            "price": 180,
+            "hotelChainId": 19,
+            "propertyTypeId": 15,
+            "name": {
+                "en": "Suha Hotel Apartments",
+                "ar": "سها للشقق الفندقية"
+            },
+            "starRating": 4,
+            "thumbnailUrl": "http://hotelcms-contents-live.tajawal.com/d3235113-fb7b-4b4e-a655-1654d6b090a7.png",
+            "area": {
+                "id": 65,
+                "nameEn": "Jumeirah Beach Residence",
+                "nameAr": "جميرة بيتش ريزيدنس"
+            },
+            "rank": 1930,
+            "longitude": 55.13747328512863,
+            "latitude": 25.079783796604193,
+            "distance": 19.0,
+            "distanceInMeters": 19330.7,
+            "address": {
+                "en": "Sadaf 3 Building, Jumeirah Beach Residence, Dubai, United Arab Emirates",
+                "ar": "بناية صدف 3 ، جميرا بيتش ريزيدنس ، دبي ، الإمارات العربية المتحدة"
+            },
+            "distanceScore": 0.570429,
+            "priorityScore": 0.965,
+            "similarityScore": 0.0,
+            "facilityIds": [
+                55,
+                63,
+                65,
+                67,
+                69,
+                70,
+                85,
+                97,
+                99,
+                101,
+                108,
+                8007,
+                8015
+            ],
+            "review": {
+                "hotelId": 1014789,
+                "count": 1720,
+                "name": "Suha Hotel Apartments",
+                "sourcesCount": null,
+                "score": 8.2,
+                "scoreDescription": {
+                    "en": "Very good",
+                    "ar": "جيد جدا"
+                },
+                "scoreColor": "#71BC4C"
+            },
+            "topPicks": {
+                "hotelId": 1014789,
+                "distance": {
+                    "en": "",
+                    "ar": ""
+                },
+                "subcategories": {
+                    "en": "",
+                    "ar": ""
+                },
+                "description": {
+                    "en": "An ideal hotel, offering easy access to sightseeing spots, main attractions, and top things to do in the city!",
+                    "ar": "فندق مميّز يتيح لنزلائه سهولة الوصول إلى أروع المواقع السياحية والأماكن الرئيسية، بالإضافة إلى قربه من أفضل الأنشطة في المدينة!"
+                },
+                "categories": {
+                    "en": "Explore top attractions",
+                    "ar": "لإكتشاف أشهر المعالم",
+                    "iconLink": "https://tjwlhotelcms.s3.amazonaws.com/almosafer/live/almosafer_favourites/explore_attractions.png"
+                }
+            }
+        }
+    }
+}

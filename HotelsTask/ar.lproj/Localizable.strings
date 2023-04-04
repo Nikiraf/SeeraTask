@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  HotelsTask
+
+  Created by Aleksandar Nikolic on 2.4.23..
+  
+*/
+
+"hotels" = "الفنادق";
+"search_bar_placeholder" = "ابحث عن الفنادق من هذه القائمة";
+"sort_by_title" = "ترتيب حسب:";
+"sort_by_recommended" = "مُستَحسَن";
+"sort_by_lowest_price" = "أقل سعر";
+"sort_by_star_rating" = "تصنيف النجوم";
+"sort_by_distance" = "مسافة";
+"button_title_cancel" = "يلغي";
+"button_sort_title" = "نوع";
+"button_map_title" = "خريطة";
+"%d_aed" = "%d د.إ";

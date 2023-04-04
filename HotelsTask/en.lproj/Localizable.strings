@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  HotelsTask
+
+  Created by Aleksandar Nikolic on 2.4.23..
+  
+*/
+
+"hotels" = "Hotels";
+"search_bar_placeholder" = "Search hotels from this list";
+"sort_by_title" = "Sort by:";
+"sort_by_recommended" = "Recommended";
+"sort_by_lowest_price" = "Lowest price";
+"sort_by_star_rating" = "Star rating";
+"sort_by_distance" = "Distance";
+"button_title_cancel" = "Cancel";
+"button_sort_title" = "SORT";
+"button_map_title" = "MAP";
+"%d_aed" = "%d AED";

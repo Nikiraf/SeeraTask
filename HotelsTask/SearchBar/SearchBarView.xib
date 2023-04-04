@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="20037" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="20020"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="SearchBarView" customModule="HotelsTask" customModuleProvider="target">
+            <connections>
+                <outlet property="searchBar" destination="yZs-Et-8BM" id="Uxz-LI-fy0"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="TId-yd-uu1">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="44"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <searchBar contentMode="redraw" placeholder="Search" translatesAutoresizingMaskIntoConstraints="NO" id="yZs-Et-8BM">
+                    <rect key="frame" x="0.0" y="0.0" width="414" height="44"/>
+                    <textInputTraits key="textInputTraits" returnKeyType="done" enablesReturnKeyAutomatically="YES"/>
+                </searchBar>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="ejl-LS-GTM"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstItem="yZs-Et-8BM" firstAttribute="top" secondItem="TId-yd-uu1" secondAttribute="top" id="79g-2w-Yzx"/>
+                <constraint firstItem="yZs-Et-8BM" firstAttribute="leading" secondItem="TId-yd-uu1" secondAttribute="leading" id="Cca-ZO-8kr"/>
+                <constraint firstAttribute="trailing" secondItem="yZs-Et-8BM" secondAttribute="trailing" id="bmH-LM-GUC"/>
+                <constraint firstItem="yZs-Et-8BM" firstAttribute="bottom" secondItem="ejl-LS-GTM" secondAttribute="bottom" id="uyM-Wd-39P"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="156.52173913043478" y="5.6919642857142856"/>
+        </view>
+    </objects>
+    <resources>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>
